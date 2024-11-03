@@ -13,32 +13,32 @@ The repository structure will expand as my journey progresses. Here’s the init
 ```bash
 my-devops-journey/
 ├── Linux/
-│   ├── notes/
 │   ├── labs/
+│   ├── notes/
 │   └── projects/
 ├── Git/
-│   ├── notes/
 │   ├── labs/
+│   ├── notes/
 │   └── projects/
 ├── Azure/
-│   ├── notes/
 │   ├── labs/
+│   ├── notes/
 │   └── projects/
 ├── Docker/
-│   ├── notes/
 │   ├── labs/
+│   ├── notes/
 │   └── projects/
 ├── Kubernetes/
-│   ├── notes/
 │   ├── labs/
+│   ├── notes/
 │   └── projects/
 ├── CI-CD/
-│   ├── notes/
 │   ├── labs/
+│   ├── notes/
 │   └── projects/
 ├── Networking/
-│   ├── notes/
-│   └── labs/
+│   ├── labs/
+│   └── notes/
 └── README.md
 ```
 ## 📋 Modules
