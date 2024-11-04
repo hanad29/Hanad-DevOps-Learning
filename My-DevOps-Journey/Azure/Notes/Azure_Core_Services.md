@@ -46,7 +46,7 @@ Virtual Machines in Azure allow you to deploy a wide range of operating systems 
 ### Azure App Services
 Azure App Services is a fully managed platform for building, deploying, and scaling web apps. It provides powerful tools for developers to integrate with other Azure services.
 
-![Azure App Services GIF](insert-your-gif-link-here)
+<img src="https://github.com/hanad29/Hanad-DevOps-Learning/blob/main/My-DevOps-Journey/Azure/Notes/Images/azure-app-services.png?raw=true" alt="Azure App Services" width="200"/>
 
 **Key Features:**
 - Built-in auto-scaling.
@@ -56,7 +56,7 @@ Azure App Services is a fully managed platform for building, deploying, and scal
 ### Azure Functions
 Azure Functions is a serverless compute service that lets you run event-driven code without having to provision or manage infrastructure. It is ideal for microservices architectures.
 
-![Azure Functions GIF](insert-your-gif-link-here)
+<img src="https://github.com/hanad29/Hanad-DevOps-Learning/blob/main/My-DevOps-Journey/Azure/Notes/Images/azure-functions.gif?raw=true" alt="Azure Functions" width="200"/>
 
 **Key Features:**
 - Pay-per-execution pricing model.
@@ -70,7 +70,7 @@ Azure Functions is a serverless compute service that lets you run event-driven c
 ### Blob Storage
 Azure Blob Storage is a service for storing large amounts of unstructured data, such as text and binary data. It is ideal for serving images or documents directly to browsers.
 
-![Blob Storage GIF](insert-your-gif-link-here)
+<img src="https://github.com/hanad29/Hanad-DevOps-Learning/blob/main/My-DevOps-Journey/Azure/Notes/Images/Azure-Blob-Storage.png?raw=true" alt="Azure Blob Storage" width="200"/>
 
 **Key Features:**
 - Supports massive scalability.
@@ -80,7 +80,7 @@ Azure Blob Storage is a service for storing large amounts of unstructured data, 
 ### Azure SQL Database
 Azure SQL Database is a fully managed relational database service based on the latest stable version of SQL Server. It provides high availability and scalability for enterprise applications.
 
-![Azure SQL Database GIF](insert-your-gif-link-here)
+<img src="https://github.com/hanad29/Hanad-DevOps-Learning/blob/main/My-DevOps-Journey/Azure/Notes/Images/Azure-SQL-Database.png?raw=true" alt="Azure SQL Database" width="200"/>
 
 **Key Features:**
 - Automated backups and patching.
@@ -90,7 +90,7 @@ Azure SQL Database is a fully managed relational database service based on the l
 ### Azure Cosmos DB
 Azure Cosmos DB is a globally distributed, multi-model database service that provides low-latency access to data. It supports various data models and offers high availability.
 
-![Azure Cosmos DB GIF](insert-your-gif-link-here)
+<img src="https://github.com/hanad29/Hanad-DevOps-Learning/blob/main/My-DevOps-Journey/Azure/Notes/Images/Azure-Cosmos-DB.png?raw=true" alt="Azure Cosmos DB" width="200"/>
 
 **Key Features:**
 - Multi-master replication for high availability.
@@ -104,7 +104,7 @@ Azure Cosmos DB is a globally distributed, multi-model database service that pro
 ### Virtual Networks
 Azure Virtual Networks allow you to create private networks in the cloud, enabling secure communication between Azure resources. You can configure IP addresses and routing.
 
-![Virtual Networks GIF](insert-your-gif-link-here)
+<img src="https://github.com/hanad29/Hanad-DevOps-Learning/blob/main/My-DevOps-Journey/Azure/Notes/Images/Virtual-Network.png?raw=true" alt="Azure Virtual Networks" width="480"/>
 
 **Key Features:**
 - Isolated network environments.
@@ -114,7 +114,7 @@ Azure Virtual Networks allow you to create private networks in the cloud, enabli
 ### Azure Load Balancer
 Azure Load Balancer distributes incoming network traffic across multiple servers to ensure high availability and reliability of applications.
 
-![Azure Load Balancer GIF](insert-your-gif-link-here)
+<img src="https://github.com/hanad29/Hanad-DevOps-Learning/blob/main/My-DevOps-Journey/Azure/Notes/Images/load-balancer.png?raw=true" alt="Azure Load Balancer" width="480"/>
 
 **Key Features:**
 - Supports both inbound and outbound scenarios.
@@ -124,7 +124,7 @@ Azure Load Balancer distributes incoming network traffic across multiple servers
 ### Azure Application Gateway
 Azure Application Gateway is a web traffic load balancer that enables you to manage traffic to your web applications. It offers features like SSL termination and URL-based routing.
 
-![Azure Application Gateway GIF](insert-your-gif-link-here)
+<img src="https://github.com/hanad29/Hanad-DevOps-Learning/blob/main/My-DevOps-Journey/Azure/Notes/Images/Azure-Application-Gateway.png?raw=true" alt="Azure Application Gateway" width="480"/>
 
 **Key Features:**
 - Web Application Firewall (WAF) for security.
@@ -134,6 +134,5 @@ Azure Application Gateway is a web traffic load balancer that enables you to man
 ---
 
 ## Conclusion
-This document serves as a foundation for understanding Azure Core Services. As I continue to explore these topics, I will update my notes with additional details, best practices, and practical examples. If you have any questions or suggestions, feel free to reach out!
-
+This document serves as a foundation for understanding Azure Core Services. As I continue to explore these topics, I will update my notes with additional details, best practices, and practical examples. If you have any questions or suggestions, feel free to reach out
 
