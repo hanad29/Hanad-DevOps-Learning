@@ -11,16 +11,12 @@ This repository is a dynamic reflection of my journey through key DevOps topics.
 The repository structure will expand as my journey progresses. Here’s the initial organization:
 
 ```bash
-my-devops-journey/
-├── Linux/
-│   ├── labs/
-│   ├── notes/
-│   └── projects/
-├── Git/
-│   ├── labs/
-│   ├── notes/
-│   └── projects/
+My-Devops-Journey/
 ├── Azure/
+│   ├── labs/
+│   ├── notes/
+│   └── projects/
+├── CI-CD/
 │   ├── labs/
 │   ├── notes/
 │   └── projects/
@@ -28,11 +24,15 @@ my-devops-journey/
 │   ├── labs/
 │   ├── notes/
 │   └── projects/
+├── Git/
+│   ├── labs/
+│   ├── notes/
+│   └── projects/
 ├── Kubernetes/
 │   ├── labs/
 │   ├── notes/
 │   └── projects/
-├── CI-CD/
+├── Linux/
 │   ├── labs/
 │   ├── notes/
 │   └── projects/
@@ -43,15 +43,16 @@ my-devops-journey/
 ```
 ## 📋 Modules
 
-Each module represents a key area of DevOps knowledge that I’ll be diving into. Here’s a breakdown of the core topics:
+### Each module represents a key area of DevOps knowledge that I’ll be diving into. Here’s a breakdown of the core topics:
 
+- **Azure**: Exploring cloud infrastructure management using Azure services, including VMs, storage, and networking.
+- **CI/CD**: Building Continuous Integration and Continuous Deployment pipelines to streamline development workflows.
+- **Containers**: Mastering containerization and deploying applications at scale with Docker, along with understanding orchestration using Kubernetes.
+- **Infrastructure as Code (Terraform)**: Learning to automate infrastructure deployments and manage resources efficiently.
 - **Linux**: The backbone of many DevOps tools. I’ll cover everything from essential commands to scripting.
 - **Git & Version Control**: Fundamental for collaborative code management. I’ll be exploring branching strategies, conflict resolution, and more.
-- **Cloud (Azure)**: Exploring cloud infrastructure management using Azure services, including VMs, storage, and networking.
-- **Infrastructure as Code (Terraform)**: Learning to automate infrastructure deployments and manage resources efficiently.
-- **Containers & Orchestration (Docker & Kubernetes)**: Mastering containerization and deploying applications at scale with Kubernetes.
-- **CI/CD Pipelines**: Building Continuous Integration and Continuous Deployment pipelines to streamline development workflows.
 - **Networking**: Developing an understanding of networking concepts and applying them to infrastructure management.
+
 
 ## 📖 How I’m Using This Repository
 
