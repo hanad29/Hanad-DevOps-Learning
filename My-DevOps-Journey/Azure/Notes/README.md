@@ -1,5 +1,5 @@
 # ☁️ Azure Learning Notes
-![Azure Logo](My-DevOps-Journey/Azure/Notes/Images/Azure-Logo.png)
+![Azure Logo](Azure/Notes/Images/Azure-Logo.png)
 
 Welcome to my Azure Learning Notes! This repository serves as a space where I document my journey as I explore Microsoft Azure, the fastest-growing cloud platform. Here, I will be making notes on all the essential aspects of Azure, starting with its core features and services, and expanding into Azure administration and other relevant topics.
 
@@ -30,4 +30,5 @@ I will compile links to tutorials, official documentation, and other resources t
 
 ## 📧 Questions or Feedback?
 If you have any questions, suggestions, or feedback, feel free to reach out via email. I'm excited to share my learning journey and hope you find these notes helpful!
+
 
