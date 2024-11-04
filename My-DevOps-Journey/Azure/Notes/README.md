@@ -1,5 +1,5 @@
 # ☁️ Azure Learning Notes
-![Azure Logo](Azure/Notes/Images/Azure-Logo.png)
+<img src="Images/Azure-Logo.png" alt="Azure Logo" width="300"/>
 
 Welcome to my Azure Learning Notes! This repository serves as a space where I document my journey as I explore Microsoft Azure, the fastest-growing cloud platform. Here, I will be making notes on all the essential aspects of Azure, starting with its core features and services, and expanding into Azure administration and other relevant topics.
 
