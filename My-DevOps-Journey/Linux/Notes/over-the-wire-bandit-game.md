@@ -6,19 +6,18 @@
   - [Lessons Learnt So Far](#lessons-learnt-so-far)
   - [Challenges Faced](#challenges-faced)
   - [Why You Should Give It a Try](#why-you-should-give-it-a-try)
-  - [Bandit Levels Documented](#bandit-levels-documented)
-    - [Bandit Level 0](#bandit-level-0)
-    - [Bandit Level 0 → Level 1](#bandit-level-0--level-1)
-    - [Bandit Level 1 → Level 2](#bandit-level-1--level-2)
-    - [Bandit Level 2 → Level 3](#bandit-level-2--level-3)
-    - [Bandit Level 3 → Level 4](#bandit-level-3--level-4)
-    - [Bandit Level 4 → Level 5](#bandit-level-4--level-5)
-    - [Bandit Level 5 → Level 6](#bandit-level-5--level-6)
-    - [Bandit Level 6 → Level 7](#bandit-level-6--level-7)
-    - [Bandit Level 7 → Level 8](#bandit-level-7--level-8)
-    - [Bandit Level 8 → Level 9](#bandit-level-8--level-9)
-    - [Bandit Level 9 → Level 10](#bandit-level-9--level-10)
-  - [Command Summary Sheet](#command-summary-sheet)
+   - [Bandit Level 0](#bandit-level-0)
+   - [Bandit Level 0 → Level 1](#bandit-level-0--level-1)
+   - [Bandit Level 1 → Level 2](#bandit-level-1--level-2)
+   - [Bandit Level 2 → Level 3](#bandit-level-2--level-3)
+   - [Bandit Level 3 → Level 4](#bandit-level-3--level-4)
+   - [Bandit Level 4 → Level 5](#bandit-level-4--level-5)
+   - [Bandit Level 5 → Level 6](#bandit-level-5--level-6)
+   - [Bandit Level 6 → Level 7](#bandit-level-6--level-7)
+   - [Bandit Level 7 → Level 8](#bandit-level-7--level-8)
+   - [Bandit Level 8 → Level 9](#bandit-level-8--level-9)
+   - [Bandit Level 9 → Level 10](#bandit-level-9--level-10)
+ - [Command Summary Sheet](#command-summary-sheet)
 
 
 
@@ -41,7 +40,7 @@ For those unfamiliar, Bandit is a wargame designed to enhance your ability to wo
 
 ---
 
-## 🎓 Lessons Learnt So Far
+## Lessons Learnt So Far
 ---
 
 - **Building Command Proficiency:**  
@@ -58,7 +57,7 @@ For those unfamiliar, Bandit is a wargame designed to enhance your ability to wo
 
 ---
 
-## 🤔 Challenges Faced
+## Challenges Faced
 ---
 
 One particularly tricky level for me was Level 6 → Level 7. The challenge involved locating a file with specific properties across the entire server using the find command:
