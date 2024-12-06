@@ -31,6 +31,7 @@
 </h1>
 
 ## My Journey with OverTheWire Bandit
+---
 
 In my quest to deepen my Linux skills, I came across the **OverTheWire Bandit** game, and it has been an incredible learning tool. Bandit offers an engaging and interactive way to strengthen practical Linux command-line skills through real-world challenges.
 
@@ -39,6 +40,7 @@ For those unfamiliar, Bandit is a wargame designed to enhance your ability to wo
 ---
 
 ## 🎓 Lessons Learnt So Far
+---
 
 - **Building Command Proficiency:**  
   Bandit has been an excellent way to sharpen my skills with the Linux command line. Starting with basic commands like `ls`, `cat`, and `grep`, I’ve gradually tackled more advanced tools like `find`, `xargs`, and `ssh`, gaining hands-on practice with every step.
@@ -55,6 +57,7 @@ For those unfamiliar, Bandit is a wargame designed to enhance your ability to wo
 ---
 
 ## 🤔 Challenges Faced
+---
 
 One particularly tricky level for me was Level 6 → Level 7. The challenge involved locating a file with specific properties across the entire server using the find command:
 
@@ -65,14 +68,17 @@ find / -user bandit7 -group bandit6 -size 33c 2>/dev/null
 ---
 
 ## 💡 Why You Should Give It a Try
+---
 
 If you’re looking to enhance your Linux command-line skills, OverTheWire Bandit is an invaluable resource. Each challenge pushes you to think critically and expand your knowledge, and the sense of accomplishment after completing a tough level is unbeatable. It’s a rewarding experience for anyone passionate about learning Linux and tackling real-world scenarios.
 
 ---
 
 ## Bandit Levels Documented
+---
 
 ### 🔑 Bandit Level 0
+---
 
 ### 🎯 Level Goal
 The objective for **Bandit Level 0** was to log into the game server using SSH. The task involved connecting to the provided host with the correct port, username, and password. Upon logging in, I needed to move to the Level 1 page to proceed to the next challenge.
@@ -105,7 +111,10 @@ ssh bandit0@bandit.labs.overthewire.org -p 2220
   </div>
 </div>
 
+---
+
 ### 🔑 Bandit Level 0 → Level 1
+---
 
 ### 🎯 Level Goal
 The password for **Bandit Level 1** was stored in a file called `readme` located in the home directory of the Bandit Level 0 server. My objective was to find and retrieve this password and use it to log into Bandit Level 1 via SSH.
@@ -138,6 +147,7 @@ ssh bandit1@bandit.labs.overthewire.org -p 2220
 ---
 
 ### 🔑 Bandit Level 1 → Level 2
+---
 
 ### 🎯 Level Goal
 The password for **Bandit Level 2** was stored in a file named `-` located in the home directory of the Bandit Level 1 server. My task was to retrieve the password from this uniquely named file and use it to log into Bandit Level 2 via SSH.
@@ -178,6 +188,7 @@ ssh bandit2@bandit.labs.overthewire.org -p 2220
 ---
 
 ### 🔑 Bandit Level 2 → Level 3
+---
 
 ### 🎯 Level Goal
 The password for **Bandit Level 3** was stored in a file named `spaces in this filename` located in the home directory of the Bandit Level 2 server. My task was to retrieve the password from this file and use it to log into Bandit Level 3 via SSH.
@@ -217,6 +228,7 @@ ssh bandit3@bandit.labs.overthewire.org -p 2220
 ---
 
 ### 🔑 Bandit Level 3 → Level 4
+---
 
 ### 🎯 Level Goal
 The password for **Bandit Level 4** was stored in a hidden file located in the `inhere` directory. My task was to locate this hidden file, retrieve its contents, and use the password to log into Bandit Level 4 via SSH.
@@ -268,6 +280,7 @@ ssh bandit4@bandit.labs.overthewire.org -p 2220
 ---
 
 ### 🔑 Bandit Level 4 → Level 5
+---
 
 ### 🎯 Level Goal
 The password for **Bandit Level 5** was stored in the only human-readable file located in the `inhere` directory. My task was to identify this file, retrieve its contents, and use the password to log into Bandit Level 5 via SSH.
@@ -321,6 +334,7 @@ ssh bandit5@bandit.labs.overthewire.org -p 2220
 ---
 
 ### 🔑 Bandit Level 5 → Level 6
+---
 
 ### 🎯 Level Goal
 The password for **Bandit Level 6** was stored in a file located somewhere within the `inhere` directory. The file met the following conditions:
@@ -381,6 +395,7 @@ ssh bandit6@bandit.labs.overthewire.org -p 2220
 ---
 
 ### 🔑 Bandit Level 6 → Level 7
+---
 
 ### 🎯 Level Goal
 The password for **Bandit Level 7** was stored in a file somewhere on the server. The file met the following criteria:
@@ -432,6 +447,7 @@ ssh bandit7@bandit.labs.overthewire.org -p 2220
 ---
 
 ### 🔑 Bandit Level 7 → Level 8
+---
 
 ### 🎯 Level Goal
 The password for **Bandit Level 8** was stored in a file called `data.txt` next to the word "millionth." My task was to locate the word "millionth" within the file and retrieve the corresponding password.
@@ -473,6 +489,7 @@ ssh bandit8@bandit.labs.overthewire.org -p 2220
 ---
 
 ### 🔑 Bandit Level 8 → Level 9
+---
 
 ### 🎯 Level Goal
 The password for **Bandit Level 9** was stored in the file `data.txt` and was the only line of text that occurred exactly once. My task was to identify this unique line and retrieve the password to access the next level.
@@ -520,6 +537,7 @@ ssh bandit9@bandit.labs.overthewire.org -p 2220
 ---
 
 ### 🔑 Bandit Level 9 → Level 10
+---
 
 ### 🎯 Level Goal
 The password for **Bandit Level 10** was stored in the file `data.txt` among a few human-readable strings, preceded by several `=` characters. My task was to extract the human-readable strings and locate the password.
