@@ -69,7 +69,7 @@ find / -user bandit7 -group bandit6 -size 33c 2>/dev/null
 
 ---
 
-## 💡 Why You Should Give It a Try
+## Why You Should Give It a Try
 ---
 
 If you’re looking to enhance your Linux command-line skills, OverTheWire Bandit is an invaluable resource. Each challenge pushes you to think critically and expand your knowledge, and the sense of accomplishment after completing a tough level is unbeatable. It’s a rewarding experience for anyone passionate about learning Linux and tackling real-world scenarios.
