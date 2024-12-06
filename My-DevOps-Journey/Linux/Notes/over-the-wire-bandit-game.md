@@ -112,7 +112,7 @@ ssh bandit0@bandit.labs.overthewire.org -p 2220
 
 ---
 
-## 🔑 Bandit Level 0 → Level 1
+##  Bandit Level 0 → Level 1
 ---
 
 ### 🎯 Level Goal
@@ -145,7 +145,7 @@ ssh bandit1@bandit.labs.overthewire.org -p 2220
 
 ---
 
-## 🔑 Bandit Level 1 → Level 2
+##  Bandit Level 1 → Level 2
 ---
 
 ### 🎯 Level Goal
@@ -186,7 +186,7 @@ ssh bandit2@bandit.labs.overthewire.org -p 2220
 
 ---
 
-## 🔑 Bandit Level 2 → Level 3
+##  Bandit Level 2 → Level 3
 ---
 
 ### 🎯 Level Goal
@@ -226,7 +226,7 @@ ssh bandit3@bandit.labs.overthewire.org -p 2220
 
 ---
 
-## 🔑 Bandit Level 3 → Level 4
+##  Bandit Level 3 → Level 4
 ---
 
 ### 🎯 Level Goal
@@ -278,7 +278,7 @@ ssh bandit4@bandit.labs.overthewire.org -p 2220
 
 ---
 
-## 🔑 Bandit Level 4 → Level 5
+##  Bandit Level 4 → Level 5
 ---
 
 ### 🎯 Level Goal
@@ -332,7 +332,7 @@ ssh bandit5@bandit.labs.overthewire.org -p 2220
 
 ---
 
-## 🔑 Bandit Level 5 → Level 6
+##  Bandit Level 5 → Level 6
 ---
 
 ### 🎯 Level Goal
@@ -393,7 +393,7 @@ ssh bandit6@bandit.labs.overthewire.org -p 2220
 
 ---
 
-## 🔑 Bandit Level 6 → Level 7
+##  Bandit Level 6 → Level 7
 ---
 
 ### 🎯 Level Goal
@@ -445,7 +445,7 @@ ssh bandit7@bandit.labs.overthewire.org -p 2220
 
 ---
 
-## 🔑 Bandit Level 7 → Level 8
+##  Bandit Level 7 → Level 8
 ---
 
 ### 🎯 Level Goal
@@ -487,7 +487,7 @@ ssh bandit8@bandit.labs.overthewire.org -p 2220
 
 ---
 
-## 🔑 Bandit Level 8 → Level 9
+##  Bandit Level 8 → Level 9
 ---
 
 ### 🎯 Level Goal
@@ -535,7 +535,7 @@ ssh bandit9@bandit.labs.overthewire.org -p 2220
 
 ---
 
-## 🔑 Bandit Level 9 → Level 10
+##  Bandit Level 9 → Level 10
 ---
 
 ### 🎯 Level Goal
